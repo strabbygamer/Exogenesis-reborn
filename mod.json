@@ -5,6 +5,6 @@
 "main": "Exogenesis.Exogenesis",
 "description": ".",
 "version": "v0.1A",
-"minGameVersion": 147,
+"minGameVersion": 146,
 "java": true
 }
